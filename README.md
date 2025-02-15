@@ -6,11 +6,17 @@ A WIP Brainrot Football League for Football GM
 -16 TEAMS IN 2 CONFERENCES!
 
 -Schedule:
+  
   6 Conference Games
+  
   6 Division Games
+  
   4 Randomized Games
+  
   1 All Star Conference Head-To-Head Game!
+  
   18 Scheduled Games Per Season Overall!
+  
   No Reseeds During the Playoffs!
 
 -Drafting and Retiring:
