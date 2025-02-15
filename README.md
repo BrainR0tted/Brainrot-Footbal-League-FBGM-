@@ -1,12 +1,12 @@
-# Brainrot-Footbal-League-FBGM-
+# Brainrot-Footbal-League-FBGM
 A WIP Brainrot Football League for Football GM
 
-Features:
+# Features:
 
 -16 TEAMS IN 2 CONFERENCES!
 
 
--THE BRAINROT CONFERENCE:
+# -THE BRAINROT CONFERENCE:
 
 
   -BASED DIVISION:
