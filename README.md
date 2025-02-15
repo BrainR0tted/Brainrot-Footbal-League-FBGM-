@@ -38,7 +38,7 @@ Due to short attention spans, it's now easier than ever to get into the Brainrot
 
 
 
-#16 TEAMS IN 2 CONFERENCES!
+# 16 TEAMS IN 2 CONFERENCES!
 
 
 ## THE BRAINROT CONFERENCE:
