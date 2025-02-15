@@ -23,7 +23,7 @@ Is it really funny? Yes. Yes it is.\
 Due to shorter attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!
 
 
-# 16 TEAMS IN 2 CONFERENCES!
+# MEET THE 16 TEAMS IN 2 CONFERENCES!
 
 
 ## THE BRAINROT CONFERENCE:
