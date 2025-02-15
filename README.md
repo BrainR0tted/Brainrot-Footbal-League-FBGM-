@@ -3,7 +3,7 @@ A WIP Brainrot Football League for Football GM
 
 # Features:
 
-### Schedule:
+## Schedule:
   
 	6 Conference Games
   
