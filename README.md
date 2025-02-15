@@ -3,7 +3,7 @@ A WIP Brainrot Football League for Football GM
 
 # Features:
 
-## Schedule:
+### Schedule:
   
 	6 Conference Games
   
@@ -33,18 +33,18 @@ Is it morally reprehensible? Maybe.
 Is it really funny? Yes. Yes it is.
 
 
-**Hall Of Fame:**
+### Hall Of Fame:
 Due to short attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!
 
 
 
-16 TEAMS IN 2 CONFERENCES!
+#16 TEAMS IN 2 CONFERENCES!
 
 
-# THE BRAINROT CONFERENCE:
+## THE BRAINROT CONFERENCE:
 
 
-  -BASED DIVISION:
+  ### BASED DIVISION:
    
    Rhode Island Peters (PTR)
    
@@ -56,7 +56,7 @@ Due to short attention spans, it's now easier than ever to get into the Brainrot
    
 
 
-  -CRINGE DIVISION:
+  ### CRINGE DIVISION:
   
    Ohio Rizzlers (RZZ)
    
@@ -67,10 +67,10 @@ Due to short attention spans, it's now easier than ever to get into the Brainrot
    Irving Imposters (IMP)
 
 
-# THE THUG HUNTER CONFERENCE:
+## THE THUG HUNTER CONFERENCE:
 
 
-  -THUG SHAKER DIVISION:
+  ### THUG SHAKER DIVISION:
    Atlanta Ambatukams (KAM)
    
    Georgia Gyatts (GYT)
@@ -81,7 +81,7 @@ Due to short attention spans, it's now easier than ever to get into the Brainrot
    
 
    
-  -OUTTA POCKET DIVISION:
+  ### OUTTA POCKET DIVISION:
   
    Chicago Crashouts (CSO)
    
