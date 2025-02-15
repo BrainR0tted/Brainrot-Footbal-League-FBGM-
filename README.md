@@ -1,5 +1,5 @@
 # Brainrot-Footbal-League-FBGM
-A WIP Brainrot Football League for Football GM
+**A WIP Brainrot Football League for Football GM**
 
 # Features:
 
