@@ -16,8 +16,9 @@ A WIP Brainrot Football League for Football GM
   18 Scheduled Games Per Season Overall!
   
   No Reseeds During the Playoffs!
+  
 
--Drafting and Retiring:
+**Drafting and Retiring:**
 Brainrot is a young person's game after all!!!
 
 Draft players from the ages of 12 to 22 and leave all those Uncs in the past at age 30!
