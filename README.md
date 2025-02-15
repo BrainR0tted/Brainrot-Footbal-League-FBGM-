@@ -3,8 +3,6 @@ A WIP Brainrot Football League for Football GM
 
 # Features:
 
--16 TEAMS IN 2 CONFERENCES!
-
 -Schedule:
   
   6 Conference Games
@@ -21,20 +19,23 @@ A WIP Brainrot Football League for Football GM
 
 -Drafting and Retiring:
 Brainrot is a young person's game after all!!!
+
 Draft players from the ages of 12 to 22 and leave all those Uncs in the past at age 30!
+
 From their first Skibidi Toilet video to Certified Unc status, you can see it all!
+
 Is it safe? Definitely not. 
+
 Is it morally reprehensible? Maybe. 
-Is it really funny? Yes. Yes it is.\
+
+Is it really funny? Yes. Yes it is.
 
 -Hall Of Fame:
 Due to short attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!
 
 
-In it's current state, the League is essentially a reskin of vanilla Footbal GM with different teams and slight tweaks under the hood.
 
-Notes:
-The teams have populations relative to their cities/states in their names, so smaller places like Irving and Hampton may benefit from equalizing populations.
+16 TEAMS IN 2 CONFERENCES!
 
 
 # THE BRAINROT CONFERENCE:
@@ -84,6 +85,12 @@ The teams have populations relative to their cities/states in their names, so sm
    Yonkers YNs (YN)
    
    Tenesse Tweakers (TWK)
+
+
+In it's current state, the League is essentially a reskin of vanilla Footbal GM with different teams and slight tweaks under the hood.
+
+Notes:
+The teams have populations relative to their cities/states in their names, so smaller places like Irving and Hampton may benefit from equalizing populations.
    
    Philidelphia Fanum Taxers (FTX)
 
