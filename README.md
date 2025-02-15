@@ -38,9 +38,9 @@ Features:
   -THUG SHAKER DIVISION:
    Atlanta Ambatukams (KAM)
    
-   Georgia Gyatts (GYTT)
+   Georgia Gyatts (GYT)
    
-   Yuma Yes Kings (YKG)
+   Yuma Yes Kings (YSK)
    
    Hampton Huzz (HZZ)
    
@@ -48,7 +48,7 @@ Features:
    
   -OUTTA POCKET DIVISION:
   
-   Chicago Crashouts (COT)
+   Chicago Crashouts (CSO)
    
    Yonkers YNs (YN)
    
