@@ -31,7 +31,7 @@ Notes:
 The teams have populations relative to their cities/states in their names, so smaller places like Irving and Hampton may benefit from equalizing populations.
 
 
-# -THE BRAINROT CONFERENCE:
+# THE BRAINROT CONFERENCE:
 
 
   -BASED DIVISION:
@@ -57,7 +57,7 @@ The teams have populations relative to their cities/states in their names, so sm
    Irving Imposters (IMP)
 
 
-# -THE THUG HUNTER CONFERENCE:
+# THE THUG HUNTER CONFERENCE:
 
 
   -THUG SHAKER DIVISION:
