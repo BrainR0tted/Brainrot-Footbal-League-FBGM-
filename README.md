@@ -11,7 +11,7 @@ A WIP Brainrot Football League for Football GM
 18 Scheduled Games Per Season Overall!\
 No Reseeds During the Playoffs!
 ### Drafting and Retiring:
-Brainrot is a young person's game after all!!!\
+**Brainrot is a young person's game after all!!!**\
 Draft players from the ages of 12 to 22 and leave all those Uncs in the past at age 30!\
 From their first Skibidi Toilet video to Certified Unc status, you can see it all!\
 Is it safe? Definitely not.\
@@ -20,7 +20,7 @@ Is it really funny? Yes. Yes it is.
 
 
 ### Hall Of Fame:
-Due to shorter attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!
+**Due to shorter attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!**
 
 
 # MEET THE 16 TEAMS IN 2 CONFERENCES!
