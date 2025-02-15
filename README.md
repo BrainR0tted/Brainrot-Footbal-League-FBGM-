@@ -3,23 +3,23 @@ A WIP Brainrot Football League for Football GM
 
 # Features:
 
-**Schedule:**
+### Schedule:
   
-  6 Conference Games
+	6 Conference Games
   
-  6 Division Games
+	6 Division Games
   
-  4 Randomized Games
+	4 Randomized Games
   
-  1 All Star Conference Head-To-Head Game!
+	1 All Star Conference Head-To-Head Game!
   
-  18 Scheduled Games Per Season Overall!
+	18 Scheduled Games Per Season Overall!
   
-  No Reseeds During the Playoffs!
+	No Reseeds During the Playoffs!
 
 
 
-**Drafting and Retiring:**
+### Drafting and Retiring:
 Brainrot is a young person's game after all!!!
 
 Draft players from the ages of 12 to 22 and leave all those Uncs in the past at age 30!
