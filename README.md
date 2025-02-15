@@ -5,7 +5,10 @@ Features:
 
 -16 TEAMS IN 2 CONFERENCES!
 
+
 -THE BRAINROT CONFERENCE:
+
+
   -BASED DIVISION:
    
    Rhode Island Peters (PTR)
@@ -17,7 +20,9 @@ Features:
    Flagstaff Freaks (FRK)
    
 
+
   -CRINGE DIVISION:
+  
    Ohio Rizzlers (RZZ)
    
    San Diego Skibidis (SKBD)
@@ -26,7 +31,10 @@ Features:
    
    Irving Imposters (IMP)
 
+
 -THE THUG HUNTER CONFERENCE:
+
+
   -THUG SHAKER DIVISION:
    Atlanta Ambatukams (KAM)
    
@@ -36,8 +44,10 @@ Features:
    
    Hampton Huzz (HZZ)
    
+
    
   -OUTTA POCKET DIVISION:
+  
    Chicago Crashouts (COT)
    
    Yonkers YNs (YN)
