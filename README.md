@@ -56,3 +56,7 @@ Features:
    
    Philidelphia Fanum Taxers (FTX)
    
+
+
+
+In it's current state, the League is essentially a reskin of vanilla Footbal GM with different teams. 
