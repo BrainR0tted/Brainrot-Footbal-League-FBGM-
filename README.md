@@ -32,7 +32,8 @@ Is it morally reprehensible? Maybe.
 
 Is it really funny? Yes. Yes it is.
 
--Hall Of Fame:
+
+**Hall Of Fame:**
 Due to short attention spans, it's now easier than ever to get into the Brainrot Hall Of Fame!
 
 
