@@ -16,7 +16,7 @@ Draft players from the ages of 12 to 22 and leave all those Uncs in the past at 
 From their first Skibidi Toilet video to Certified Unc status, you can see it all!\
 Is it safe? Definitely not.\
 Is it morally reprehensible? Maybe.\
-Is it really funny? Yes. Yes it is.\
+Is it really funny? Yes. Yes it is.
 
 
 ### Hall Of Fame:
