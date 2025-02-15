@@ -74,11 +74,13 @@ Due to shorter attention spans, it's now easier than ever to get into the Brainr
    
    Tenesse Tweakers (TWK)
 
+   Philidelphia Fanum Taxers (FTX)
 
+# Notes
 In it's current state, the League is essentially a reskin of vanilla Footbal GM with different teams and slight tweaks under the hood.
 
 Notes:
 The teams have populations relative to their cities/states in their names, so smaller places like Irving and Hampton may benefit from equalizing populations.
    
-   Philidelphia Fanum Taxers (FTX)
+
 
