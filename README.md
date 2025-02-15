@@ -60,3 +60,4 @@ Features:
 
 
 In it's current state, the League is essentially a reskin of vanilla Footbal GM with different teams. 
+The teams have populations relative to their cities/states in their names, so smaller places like Irving and Hampton may benefit from equalizing populations.
